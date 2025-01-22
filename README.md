@@ -1,3 +1,12 @@
+This is a CMD code or command prompt code that allows you to take notes and store them into a file and allows you to search for notes. 
+By typing ./note.sh it can give you a little list of commands you can run like a little tutorial. 
+To add notes you simply do ./note.sh add "" and put what ever you want INSIDE of the quotations.
+By doing ./note.sh list it will list your notes for you.
+And by searching ./note.sh seach (you can add any character here) it will search what ever you want.
+So simply this is just a simple notes app coded in command prompt.
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/x_3ULh4W)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17754340)
 # Note to Shelf
 
 <!--
